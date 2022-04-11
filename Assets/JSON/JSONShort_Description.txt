@@ -1,0 +1,1184 @@
+﻿{
+    "elements": [
+        {
+            "name": "Hydrogen",
+            "atomic_mass": 1.008,
+            "symbol": "H",
+	     "atomic_number": 1,
+             "discovered": "1766",
+             "phase": "Gas",
+             "electron_per_shell": "1",
+             "electron_configuration": "1s<sup>1</sup>"
+        },
+        {
+            "name": "Helium",
+            "atomic_mass": 4.003,
+            "symbol": "He",
+            "atomic_number": 2,
+            "discovered": "1868",
+            "phase": "Gas",
+            "electron_per_shell": "2",
+            "electron_configuration": "1s<sup>2</sup>"
+        },
+        {
+            "name": "Lithium",
+            "atomic_mass": 6.94,
+            "symbol": "Li",
+            "atomic_number": 3,
+            "discovered":"1817",
+            "phase":"Solid",
+            "electron_per_shell": "2, 1",
+            "electron_configuration": "[He] 2s<sup>1</sup>"
+        },
+        {
+            "name": "Beryllium",
+            "atomic_mass": 9.012,
+            "symbol": "Be",
+            "atomic_number": 4,
+            "discovered": "1798",
+            "phase": "Solid",
+            "electron_per_shell": "2,2",
+            "electron_configuration": "[He] 2s<sup>2</sup>"
+        },
+        {
+            "name": "Boron",
+            "atomic_mass": 10.81,
+            "symbol": "B",
+            "atomic_number": 5,
+            "discovered": "1808",
+            "phase":"Solid",
+            "electron_per_shell": "2,3",
+            "electron_configuration": "[He] 2s<sup>2</sup> 2p<sup>1</sup>"
+        },
+        {
+            "name": "Carbon",
+            "atomic_mass": 12.011,
+            "symbol": "C",
+            "atomic_number": 6,
+            "discovered": "3750 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,4",
+            "electron_configuration": "[He] 2s<sup>2</sup> 2p<sup>2</sup>"
+        },
+        {
+            "name": "Nitrogen",
+            "atomic_mass": 14.007,
+            "symbol": "N",
+            "atomic_number": 7,
+            "discovered": "1772",
+            "phase":"Gas",
+            "electron_per_shell": "2,5",
+            "electron_configuration": "[He] 2s<sup>2</sup> 2p<sup>3</sup>"
+        },
+        {
+            "name": "Oxygen",
+            "atomic_mass": 15.999,
+            "symbol": "O",
+            "atomic_number": 8,
+            "discovered": "1771",
+            "phase":"Gas",
+            "electron_per_shell":"2,6",
+            "electron_configuration": "[He] 2s<sup>2</sup> 2p<sup>4</sup>"
+        },
+        {
+            "name": "Flourine",
+            "atomic_mass": 18.998,
+            "symbol": "F",
+            "atomic_number": 9,
+            "discovered": "1810",
+            "phase": "Gas",
+            "electron_per_shell": "2,7",
+            "electron_configuration": "[He] 2s<sup>2</sup> 2p<sup>5</sup>"
+        },
+        {
+            "name": "Neon",
+            "atomic_mass": 20.179,
+            "symbol": "Ne",
+            "atomic_number": 10,
+            "discovered": "1898",
+            "phase":"Gas",
+            "electron_per_shell": "2,8",
+            "electron_configuration": "[He] 2s<sup>2</sup> 2p<sup>6</sup>"
+        },
+        {
+            "name": "Sodium",
+            "atomic_mass": 22.989,
+            "symbol": "Na",
+            "atomic_number": 11,
+            "discovered": "1807",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,1",
+            "electron_configuration": "[Ne] 3s<sup>1</sup>"
+        },
+        {
+            "name": "Magnesium",
+            "atomic_mass": 24.305,
+            "symbol": "Mg",
+            "atomic_number": 12,
+            "discovered": "1755",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,2",
+            "electron_configuration": "[Ne] 3s<sup>2</sup>"
+        },
+        {
+            "name": "Aluminium",
+            "atomic_mass": 26.981,
+            "symbol": "Al",
+            "atomic_number": 13,
+            "discovered":"1825",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,3",
+            "electron_configuration": "[Ne] 3s<sup>2</sup> 3p<sup>1</sup>"
+        },
+        {
+            "name": "Silicon",
+            "atomic_mass": 28.085,
+            "symbol": "Si",
+            "atomic_number": 14,
+            "discovered": "1824",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,4",
+            "electron_configuration": "[Ne] 3s<sup>2</sup> 3p<sup>2</sup>"
+        },
+        {
+            "name": "Phosphorus",
+            "atomic_mass": 20.974,
+            "symbol": "P",
+            "atomic_number": 15,
+            "discovered": "1669",
+            "phase":"Solid",
+            "electron_per_shell": "2,8,5",
+            "electron_configuration": "[Ne] 3s<sup>2</sup> 3p<sup>3</sup>"
+        },
+        {
+            "name": "Sulfur",
+            "atomic_mass": 32.06,
+            "symbol": "S",
+            "atomic_number": 16,
+            "discovered": "500 BC",
+            "phase": "Solid",
+            "electron_per_shell":"2,8,6",
+            "electron_configuration":"[Ne] 3s<sup>2</sup> 3p<sup>4</sup>"
+        },
+        {
+            "name": "Chlorine",
+            "atomic_mass": 35.45,
+            "symbol": "Cl",
+            "atomic_number": 17,
+            "discovered": "1774",
+            "phase":"Gas",
+            "electron_per_shell": "2,8,7",
+            "electron_configuration": "[Ne] 3s<sup>2</sup> 3p<sup>5</sup>"
+        },
+        {
+            "name": "Argon",
+            "atomic_mass": 39.948,
+            "symbol": "Ar",
+            "atomic_number": 18,
+            "discovered": "1894",
+            "phase": "Gas",
+            "electron_per_shell":"2,8,8",
+            "electron_configuration": "[Ne] 3s<sup>2</sup> 3p<sup>6</sup>"
+        },
+        {
+            "name": "Potassium",
+            "atomic_mass": 39.098,
+            "symbol": "K",
+            "atomic_number": 19,
+            "discovered":"1807",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,8,1",
+            "electron_configuration": "[Ar] 4s<sup>1</sup>"
+        },
+        {
+            "name": "Calcium",
+            "atomic_mass": 40.078,
+            "symbol": "Ca",
+            "atomic_number": 20,
+            "discovered": "1808",
+            "phase":"Solid",
+            "electron_per_shell": "2,8,8,2",
+            "electron_configuration":"[Ar] 4s<sup>2</sup>"
+        },
+        {
+            "name": "Scandium",
+            "atomic_mass": 44.956,
+            "symbol": "Sc",
+            "atomic_number": 21,
+            "discovered":"1879",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,9,2",
+            "electron_configuration":"[Ar] 3d<sup>1</sup> 4s<sup>2</sup>"
+        },
+        {
+            "name": "Titanium",
+            "atomic_mass": 47.867,
+            "symbol": "Ti",
+            "atomic_number": 22,
+            "discovered":"1791",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,10,2",
+            "electron_configuration": "[Ar] 3d<sup>2</sup> 4s<sup>2</sup>"
+        },
+        {
+            "name": "Vanadium",
+            "atomic_mass": 50.942,
+            "symbol": "V",
+            "atomic_number": 23,
+            "discovered":"1801",
+            "phase":"Solid",
+            "electron_per_shell": "2,8,11,2",
+            "electron_configuration": "[Ar] 3d<sup>3</sup> 4s<sup>2</sup>"
+        },
+        {
+            "name": "Chromium",
+            "atomic_mass": 51.996,
+            "symbol": "Cr",
+            "atomic_number": 24,
+            "discovered":"1797",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,13,1",
+            "electron_configuration": "[Ar] 3d<sup>5</sup> 4s<sup>1</sup>"
+        },
+        {
+            "name": "Manganese",
+            "atomic_mass": 54.938,
+            "symbol": "Mn",
+            "atomic_number": 25,
+            "discovered":"1774",
+            "phase":"Solid",
+            "electron_per_shell": "2,8,13,2",
+            "electron_configuration": "[Ar] 3d<sup>5</sup> 4s<sup>2</sup>"
+        },
+        {
+            "name": "Iron",
+            "atomic_mass": 55.845,
+            "symbol": "F",
+            "atomic_number": 26,
+            "discovered":"2000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,14,2",
+            "electron_configuration": "[Ar] 3d<sup>6</sup> 4s<sup>2</sup>"
+        },
+        {
+            "name": "Cobalt",
+            "atomic_mass": 58.933,
+            "symbol": "Co",
+            "atomic_number": 27,
+            "discovered":"1735",
+            "phase": "Solid",
+            "electron_per_shell":"2,8,15,2",
+            "electron_configuration": "[Ar] 3d<sup>7</sup> 4s<sup>2</sup>"
+        },
+        {
+            "name": "Nickel",
+            "atomic_mass": 58.693,
+            "symbol": "Ni",
+            "atomic_number": 28,
+            "discovered":"1751",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,16,2",
+            "electron_configuration": "[Ar] 3d<sup>8</sup> 4s<sup>2</sup>"
+        },
+        {
+            "name": "Copper",
+            "atomic_mass": 63.546,
+            "symbol": "Cu",
+            "atomic_number": 29,
+            "discovered":"8000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,1",
+            "electron_configuration": "[Ar] 3d<sup>10</sup> 4s<sup>1</sup>"
+        },
+        {
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup>"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup>"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup>"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d<sup>10</sup> 4s<sup>2</sup>"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":"1000 BC",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        },
+{
+            "name": "Oganesson",
+            "atomic_mass": 294,
+            "symbol": "Og",
+            "atomic_number": 118,
+            "discovered":"1766",
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,32,32,18,8",
+            "electron_configuration": "*[Rn] 5f14 6d10 7s2 7p6"
+        }
+     ]
+}
