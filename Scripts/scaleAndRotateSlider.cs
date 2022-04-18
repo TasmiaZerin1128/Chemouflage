@@ -8,12 +8,13 @@ public class scaleAndRotateSlider : MonoBehaviour
     private Slider scaleSlider;
     private Slider rotateSlider;
 
-    public float scaleMinValue;
+    //public float scaleMinValue;
     public float scaleMaxValue;
     void Start()
     {
         scaleSlider = GameObject.Find("scaleSliders").GetComponent<Slider>();
-        scaleSlider.minValue = scaleMinValue;
+        scaleSlider.minValue = 8;
+        //scaleSlider.minValue = scaleMinValue;
         scaleSlider.maxValue = scaleMaxValue;
 
         scaleSlider.onValueChanged.AddListener(ScaleSliderUpdate);
