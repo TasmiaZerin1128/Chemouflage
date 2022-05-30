@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Li_card" size="50.000000 69.008827" />
+    <ImageTarget name="F_card" size="50.000000 69.032257" />
+    <ImageTarget name="O_card" size="50.000000 69.008827" />
+    <ImageTarget name="C_card" size="50.000000 69.032257" />
+    <ImageTarget name="S_card" size="50.000000 69.032257" />
+    <ImageTarget name="Cl_card" size="50.000000 68.991852" />
+    <ImageTarget name="Na_card" size="50.000000 69.032257" />
+    <ImageTarget name="Ne_card" size="50.000000 69.015282" />
+    <ImageTarget name="N_card" size="50.000000 69.032257" />
+    <ImageTarget name="B_card" size="50.000000 69.032257" />
+    <ImageTarget name="Be_card" size="50.000000 68.991852" />
+    <ImageTarget name="He_card" size="50.000000 69.032257" />
+    <ImageTarget name="H_card" size="50.000000 69.008827" />
+  </Tracking>
+</QCARConfig>
